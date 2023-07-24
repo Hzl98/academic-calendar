@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AcademicCalendar</string>
+    <string name="title_activity_master_kategori">MasterKategori</string>
+    <string name="title_activity_edit_kategori">EditKategori</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_tambah">Tambah</string>
+    <string name="title_activity_broadcast">Broadcast</string>
+    <string name="title_activity_tambah_broadcast">TambahBroadcast</string>
+    <string name="title_activity_master_kegiatan">MasterKegiatan</string>
+    <string name="title_activity_detil_kegiatan">detil_kegiatan</string>
+    <string name="title_activity_detail_kegiatan">DetailKegiatan</string>
+    <string name="title_activity_tambah_kegiatan">TambahKegiatan</string>
+    <string name="title_activity_tambah_kategori">TambahKategori</string>
+</resources>

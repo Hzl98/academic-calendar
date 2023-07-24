@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "855586174471",
+    "firebase_url": "https://academic-calendar-b9900.firebaseio.com",
+    "project_id": "academic-calendar-b9900",
+    "storage_bucket": "academic-calendar-b9900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855586174471:android:953d1598f905f62f",
+        "android_client_info": {
+          "package_name": "com.example.asus.academiccalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855586174471-afglqtahnpr322hv9oknpqmu6jhghc0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.academiccalendar",
+            "certificate_hash": "7456e5d16655f4e9197b18b975f0d3d79874ec27"
+          }
+        },
+        {
+          "client_id": "855586174471-nhlkgjbuj4lje5vbq39scbdag8ktq9uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuR6qt-MfgddSYlaZ_6KP3PpBEF0GMS2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855586174471-nhlkgjbuj4lje5vbq39scbdag8ktq9uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855586174471:android:679b299ca3b0d26b",
+        "android_client_info": {
+          "package_name": "com.example.cobakalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855586174471-nhlkgjbuj4lje5vbq39scbdag8ktq9uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuR6qt-MfgddSYlaZ_6KP3PpBEF0GMS2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855586174471-nhlkgjbuj4lje5vbq39scbdag8ktq9uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
